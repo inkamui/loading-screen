@@ -1,0 +1,13 @@
+.loading-container {
+    width: 200px;
+    height: 20px;
+    border: 1px solid #525151;
+    box-shadow: 1px 1px 10px black;
+    margin: 100px auto;
+  }
+
+  .loading-progress {
+    width: 0%;
+    height: 100%;
+    background-color: #f11d0e;
+  }
